@@ -128,5 +128,7 @@ My whole Spring Boot Application Running on SERVER PORT 8090
 | :-------- | :------- | :-------------------------------- |
 | `std_id`      | `Integer` | **Required**. std_id of item to fetch |
 
-  
+  ## Images
+  <img src="https://github.com/user-attachments/assets/61051274-ff33-4e77-8ff5-d3366b03c174" alt="Screenshot" width="400" height="300">
+  <img src="https://github.com/user-attachments/assets/b47ac4cb-f651-4e91-bcd0-bcf289cbebb5" alt="Screenshot" width="400" height="300">
 
