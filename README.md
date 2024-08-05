@@ -61,6 +61,8 @@ I have created only the Backend Part, there is no security added.
 
 ```bash
   cd target
+```
+```bash
   java -jar StudentEnrollSubject-0.0.1-SNAPSHOT.jar
 ```
 
